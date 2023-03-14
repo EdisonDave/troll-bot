@@ -1,1 +1,2 @@
 # troll-bot
+A python bot that I made to mess around with some of my friends. A running joke was that when a project wasn't working, but we were just testing features, someone would post @everyone, this is just a test : ). So, I thought it would save time, or perhaps just be funny if the bot itself typed that bit, being triggered by ": )" which had to be done in a perfect way, or else discord would read it as an emoji. Things quickly went out of hand, still, funny memories.
